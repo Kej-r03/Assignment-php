@@ -1,0 +1,15 @@
+#update_stat{
+    display:none;
+}
+.A{
+    cursor: pointer;
+    color:blue;
+}
+th,td{
+    border:2px solid black;
+    height:50px;
+}
+table{
+    border:2px solid black;
+    width:100%;
+}
